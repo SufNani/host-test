@@ -1,0 +1,15 @@
+@media (min-width: 800px) and (max-width: 1000px) {
+    body{
+        background-color: chocolate;
+        color:darksalmon;
+    }
+
+}
+
+@media (min-width: 1001px) and (max-width: 1400px) {
+    body{
+        background-color: rgb(113, 227, 255);
+        color:rgb(66, 107, 219);
+    }
+
+}
